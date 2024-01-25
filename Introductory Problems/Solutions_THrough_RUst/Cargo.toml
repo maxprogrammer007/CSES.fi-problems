@@ -5,5 +5,5 @@ edition = "2018"
 
 # See more keys and heir definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [profile.dev]
-C opt-level=3
+opt-level=3
 [dependencies]
