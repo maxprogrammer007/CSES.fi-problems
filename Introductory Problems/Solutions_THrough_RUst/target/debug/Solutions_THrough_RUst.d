@@ -1,0 +1,1 @@
+C:\Users\Administrator\Documents\GitHub\CSES.fi-problems\Introductory\ Problems\Solutions_THrough_RUst\target\debug\Solutions_THrough_RUst.exe: C:\Users\Administrator\Documents\GitHub\CSES.fi-problems\Introductory\ Problems\Solutions_THrough_RUst\src\main.rs
